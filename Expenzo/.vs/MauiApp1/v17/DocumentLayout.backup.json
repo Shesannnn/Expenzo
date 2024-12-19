@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitro\\OneDrive\\Desktop\\Expenzo\\MauiApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5C403E-2F60-4D43-8AF0-C666F0501C3C}|MauiApp1\\MauiApp1.csproj|c:\\users\\nitro\\onedrive\\desktop\\expenzo\\mauiapp1\\mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E5C403E-2F60-4D43-8AF0-C666F0501C3C}|MauiApp1\\MauiApp1.csproj|solutionrelative:mauiapp1\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\nitro\\OneDrive\\Desktop\\Expenzo\\MauiApp1\\MauiApp1\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "MauiApp1\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\nitro\\OneDrive\\Desktop\\Expenzo\\MauiApp1\\MauiApp1\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "MauiApp1\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-19T07:06:46.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
